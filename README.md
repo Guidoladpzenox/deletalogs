@@ -11,7 +11,7 @@ Autor: Guido
 ###### # Site:       não tem
 #Autor:      Guido Santos
 
-🤟 #Manutenção: guido Santos
+#Manutenção: Guido Santos
 #
 # -----------------------------------------------------------------------------#
 #remove os arquivos server.log encontrados no diretório
@@ -28,6 +28,6 @@ Autor: Guido
 
 #GitHub: https://github.com/Guidoladpzenox/deletalogs
 # -----------------------------------------------------------------------------#
-# Testado em:
+🤟 # Testado em:
 #bash 5.1.16
 # -----------------------------------------------------------------------------#
